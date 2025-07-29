@@ -1,8 +1,3 @@
-/*
-    Name: Ioannis Voggelis
-    AM: 5733
-*/
-
 public abstract class Animal 
 {
     private Cell cellOfAnimal;
