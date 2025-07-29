@@ -1,8 +1,3 @@
-/*
-    Name: Ioannis Voggelis
-    AM: 5733
-*/
-
 import java.util.ArrayList;
 import java.util.Collections;
 
