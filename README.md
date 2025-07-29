@@ -56,5 +56,13 @@ The simulation is based on a 20×20 two-dimensional grid where each cell can con
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/animals-population.git
-   cd animals-population
+   git clone https://github.com/your-username/Animals-Population.git
+   cd Animals-Population
+
+2. Compile every java file, by running:
+   ```bash
+   javac *.java
+
+3. Run the simulation by typing
+   ```bash
+   java Simulation.java
