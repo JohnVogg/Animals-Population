@@ -1,8 +1,3 @@
-/*
-    Name: Ioannis Voggelis
-    AM: 5733
-*/
-
 public class Rabbit extends Animal 
 {
     public boolean isRabbit(){
